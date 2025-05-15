@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Some title for the document",
+    "mode": [32, -8, 42]
+  },
+  {
+    "0101010101010101": {
+      "foo": "bar",
+      "baz": "qux"
+    }
+  }
+]
